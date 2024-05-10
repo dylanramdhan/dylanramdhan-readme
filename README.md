@@ -14,7 +14,7 @@ Check out my repos of some my cool personal projects, coursework, and competitio
 **Concepts 🙇🏽‍♂️:** IoT Systems, Agile, AutoCAD, Networking Protocols, Security Protocols, Embedded Systems, Hardware Circuitry, Robotics, DSP, Web/Mobile Dev
 
  ### Connect with Me!
- [LinkedIn](https://www.linkedin.com/in/dramdhan/)
+ [LinkedIn](https://www.linkedin.com/in/dramdhan/) <br>
  Personal Website -- Coming Soon!
 
   
