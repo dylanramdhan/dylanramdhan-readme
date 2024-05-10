@@ -1,7 +1,7 @@
    Webpage: [Personal Website](https://dylanramdhan.github.io/dylanramdhan/)
 
 <<<<<<<<<< -- GIT COMMANDS -- >>>>>>>>>>>>
-    - Change into working directory:            cd <working-directory>
+    - Change into working directory:            cd (WORKING-DIRECTORY)
     - CHECK Git Status:                         git status
     - INITIALIZE Git:                           git init
    
