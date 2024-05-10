@@ -1,6 +1,5 @@
    Webpage: [Personal Website](https://dylanramdhan.github.io/dylanramdhan/)
 
-  ***** Git Commits ******
     - Change into working directory:            cd (WORKING-DIRECTORY)
     - CHECK Git Status:                         git status
     - INITIALIZE Git:                           git init
