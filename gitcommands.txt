@@ -7,7 +7,7 @@
                                        -- OR -- git add . <adds-all-changes-from-current-file>
    
     - COMMIT w/ Comments:                       git commit -m "<commmit-message>"
-        - COMMIT w/o Comments:                  git commit --allow-empty-message -m ""
+        - COMMIT w/o Comments:                  git commit --allow-empty-message -m
 
     - PUSH Files TO Repository:                 git push
     - PULL Files FROM Repository:               git pull
