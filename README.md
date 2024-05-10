@@ -5,8 +5,8 @@
     - Check Git Status:                         git status
     - Initialize Git Repository:                git init
    
-    - Add Files to Git:                         git add <FILE_NAME> 
-                                       -- OR -- git add . (adds all changes from current file)
+    - Add Files to Git:                         git add <file-name> 
+                                       -- OR -- git add . <adds-all-changes-from-current-file>
    
     - Commit Files to Git:                      git commit -m "<commmit-message>"
         - COMMIT w/o Comment:                   git commit --allow-empty-message -m ""
