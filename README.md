@@ -1,21 +1,19 @@
    Webpage: [Personal Website](https://dylanramdhan.github.io/dylanramdhan/)
-   
-    Git Commands:
+
+<<<<<<<<<< -- GIT COMMANDS -- >>>>>>>>>>>>
     - Change into working directory:            cd <working-directory>
-    - Check Git Status:                         git status
-    - Initialize Git Repository:                git init
+    - CHECK Git Status:                         git status
+    - INITIALIZE Git:                           git init
    
-    - Add Files to Git:                         git add <file-name> 
+    - ADD file to Git:                          git add <file-name> 
                                        -- OR -- git add . <adds-all-changes-from-current-file>
    
-    - Commit Files to Git:                      git commit -m "<commmit-message>"
-        - COMMIT w/o Comment:                   git commit --allow-empty-message -m ""
+    - COMMIT w/ Comments:                       git commit -m "<commmit-message>"
+        - COMMIT w/o Comments:                  git commit --allow-empty-message -m ""
 
-    - Add Remote Repository:                    git remote add origin <remote-repository-URL>
-    - Push Files to Remote Repository:          git push origin main
-    - Pull Files from Remote Repository:        git pull origin main
-        - Clone Remote Repository:              git clone <remote-repository-URL>
-        - Check again:                          git status
+    - PUSH Files TO Repository:                 git push origin main
+    - PULL Files FROM Repository:               git pull origin main
+        - CHECK Status again:                          git status
 
     GitHub Branches:
     - CURRENT Branch:   git checkout
