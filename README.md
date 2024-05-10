@@ -1,43 +1,25 @@
-# ✌🏽👨🏽‍💻 Hey, I'm Dylan! 
-## Welcome to my GitHub!
-Check out my repos of some my cool personal projects, coursework, and competitions I've worked on!
+   Webpage: https://dylanramdhan.github.io/personalwebsite/
+   
+    Git Commands:
+    - Change into working directory:            cd <working-directory>
+    - Check Git Status:                         git status
+    - Initialize Git Repository:                git init
+    - Add Files to Git:                         git add <FILE_NAME> -- OR -- git add . (adds all changes from current file)
+    - Commit Files to Git:                      git commit -m "<commmit-message>"
+    - Add Remote Repository:                    git remote add origin <remote-repository-URL>
+    - Push Files to Remote Repository:          git push origin main
+    - Pull Files from Remote Repository:        git pull origin main
+        - Clone Remote Repository:              git clone <remote-repository-URL>
+        - Check again:                          git status
 
-### About Me
-📍 Boston, MA <br>
-👨🏽‍🎓 Computer Engineering, minor in Computer Science <br>
-🏫 Boston University 25' <br>
-🤩 Fun Fact: My first programming language I learned was C++!!
-
-
-### My Skillsets
-**Coding 💻:** C++/C, Java, JavaScript, Python, C#, MATLAB, HTML/CSS <br>
-**Concepts 🙇🏽‍♂️:** IoT Systems, Agile, AutoCAD, Networking Protocols, Security Protocols, Embedded Systems, Hardware Circuitry, Robotics, DSP, Web/Mobile Dev
-
- 
-
-  
-<!--👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-**dylanramdhan/dylanramdhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    GitHub Branches:
+    - CURRENT Branch:   git checkout
+    - CHANGE Branch:    git checkout <branch-name>
+    - CREATE Branch:    git checkout -b <branch-name>
+    - DELETE Branch:    git branch -d <branch-name>
+    - MERGE Branch:     git merge <branch-name>
+    - LIST Branches:    git branch
+        - LIST Files in Branch: git ls-tree <file-name>
+    - PUSH Branch:      git push origin <branch-name>
+    - PULL Branch:      git pull origin <branch-name>
+    - RENAME Branch:    git branch -m <new-branch-name>
