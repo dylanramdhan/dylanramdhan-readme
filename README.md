@@ -25,4 +25,4 @@
         - LIST Files in Branch: git ls-tree <file-name>
     - PUSH Branch:      git push origin <branch-name>
     - PULL Branch:      git pull origin <branch-name>
-    - RENAME Branch:    git branch -m <new-branch-name>
+    - RENAME Branch:    git branch -m <old-branch-name> <new-branch-name>
