@@ -1,2 +1,2 @@
-# personalwebsite
-Creating my personal website!
+# Personal Webpage
+Repo for my personal website
