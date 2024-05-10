@@ -4,8 +4,13 @@
     - Change into working directory:            cd <working-directory>
     - Check Git Status:                         git status
     - Initialize Git Repository:                git init
-    - Add Files to Git:                         git add <FILE_NAME> -- OR -- git add . (adds all changes from current file)
+   
+    - Add Files to Git:                         git add <FILE_NAME> 
+                                       -- OR -- git add . (adds all changes from current file)
+   
     - Commit Files to Git:                      git commit -m "<commmit-message>"
+        - COMMIT w/o Comment:                   git commit --allow-empty-message -m ""
+
     - Add Remote Repository:                    git remote add origin <remote-repository-URL>
     - Push Files to Remote Repository:          git push origin main
     - Pull Files from Remote Repository:        git pull origin main
