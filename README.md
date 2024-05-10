@@ -11,8 +11,8 @@
     - COMMIT w/ Comments:                       git commit -m "<commmit-message>"
         - COMMIT w/o Comments:                  git commit --allow-empty-message -m ""
 
-    - PUSH Files TO Repository:                 git push origin main
-    - PULL Files FROM Repository:               git pull origin main
+    - PUSH Files TO Repository:                 git push
+    - PULL Files FROM Repository:               git pull
         - CHECK Status again:                          git status
 
     GitHub Branches:
