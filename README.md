@@ -11,7 +11,7 @@ Check out my repos of some my cool personal projects, coursework, and competitio
 
 ### My Skillsets
 **Coding 💻:** C++/C, Java, JavaScript, Python, C#, MATLAB, HTML/CSS <br>
-**Concepts 🙇🏽‍♂️:** IoT Systems, Agile, AutoCAD, Networking Protocols, Security Protocols, Embedded Systems, Hardware Circuitry, Robotics, DSP, Web/Mobile Dev
+**Concepts 🙇🏽‍♂️:** IoT Systems, Agile Methods, AutoCAD, Networking Protocols, Security Protocols, Embedded Systems, Hardware Circuitry, Robotics, DSP, Web/Mobile Dev
 
  ### Connect with Me!
  [LinkedIn](https://www.linkedin.com/in/dramdhan/) <br>
