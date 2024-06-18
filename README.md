@@ -4,7 +4,7 @@ Check out my repos of some my cool personal projects, coursework, and competitio
 
 ### About Me
 📍 Boston, MA <br>
-👨🏽‍🎓 Computer Engineering, Minor in Computer Science & Concentration in Nanotechnology <br>
+👨🏽‍🎓 **Computer Engineering**, **Minor in Computer Science** & **Concentration in Nanotechnology** <br>
 🏫 Boston University 25' <br>
 🤩 Fun Fact: My first programming language I learned was C++!!
 
